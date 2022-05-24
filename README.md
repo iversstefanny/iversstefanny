@@ -1,7 +1,7 @@
 - 👋 oie, meu nome é stefanny Ivers <3
 - 👀 eu estou aprendendo atualmente a programar jogos no scratch Javascript.
 - 🌱 tenho curiosidades em aprender páginas na web.
-- 💞️ vocês podem entrar em conytato comigo atráves do email: stefanny.ivers@escola.pr.gov.br
+- 💞️ vocês podem entrar em contato comigo atráves do email: stefanny.ivers@escola.pr.gov.br
 - 📫 <3
 
 <!---
